@@ -1,14 +1,16 @@
 # 設定方法
 
-①まずアセットをインポートします
+①リリースページからダウンロード (https://github.com/HhotateA/FakeSSS_UnityShader/releases)
 
-②シーンにモデルを配置して、各SkinnedMeshRendererを複製します
+②まずアセットをインポートします
 
-③複製したSkinnedMeshRendererの各マテリアルをSSSMaskにします
+③シーンにモデルを配置して、各SkinnedMeshRendererを複製します
 
-④元のマテリアルのシェーダーをSSSにします
+④複製したSkinnedMeshRendererの各マテリアルをSSSMaskにします
 
-⑤いいかんじにします
+⑤元のマテリアルのシェーダーをSSSにします
+
+⑥いいかんじにします
 
 https://www.youtube.com/watch?v=EvVvxAGas8w
 

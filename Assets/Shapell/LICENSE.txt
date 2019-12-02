@@ -1,0 +1,15 @@
+ライセンス
+CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+
+シェーダーはarktoon shaderを使用しています。シェーダーのライセンスはそちらに従ってください。
+
+
+
+LICENSE
+CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+
+The shader is "arktoon shader". That shader is available under its license

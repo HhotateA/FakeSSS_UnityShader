@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=EvVvxAGas8w
  別途ライセンスファイルを参照してください。
 
 # Shapellのライセンス
- Booth(https://lowteq.booth.pm/items/1349366)においてろーてく様がパブリックドメインCC0で配布されているアバター「シャペル」をデモシーンに配置しています。
+ Booth(https://lowteq.booth.pm/items/1349366) においてろーてく様がパブリックドメインCC0で配布されているアバター「シャペル」をデモシーンに配置しています。
